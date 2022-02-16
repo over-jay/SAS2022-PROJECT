@@ -1,0 +1,23 @@
+Code|Name
+D231|Sage-femme
+A505|Agence immobilière
+A303|Location auto-utilitaires légers
+A206|Bureau de poste
+A503|Agence travail temporaire
+B302|Magasin vêtements
+A208|Agence postale
+D235|Orthophoniste
+A207|Relais poste
+G101|Agence de voyages
+A507|Institut de beauté-Onglerie
+A301|Réparation auto-matériel agricole
+B313|Magasin d'optique
+D201|Medecin
+B203|Boulangerie
+B101|Hypermarché
+B102|Supermarché
+D112|Hospitalisation à Domicile
+D232|Infirmier
+D107|Maternité
+D106|Urgence
+F102|Boulodrome

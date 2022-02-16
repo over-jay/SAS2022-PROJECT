@@ -1,0 +1,128 @@
+CODEQU,TYPEQU
+A101,Police
+A104,Gendarmerie
+A105,Cour d'appel
+A106,Tribunal de grande instance (TGI)
+A107,Tribunal d'instance (TI)
+A108,Conseil de prud'hommes (CPH)
+A109,Tribunal de commerce (TCO)
+A122,Réseau de proximité Pôle Emploi
+A124,Maison de Justice et du Droit (MJD)
+A125,Antenne de Justice (AJ)
+A203,Banque Caisse d'épargne
+A205,Services funéraires
+A206,Bureau de poste
+A207,Relais poste
+A208,Agence postale
+A301,Réparation auto-matériel agricole
+A302,Contrôle technique automobile
+A303,Location auto-utilitaires légers
+A304,Ecoles de conduite
+A401,Maçon
+A402,Platrier peintre
+A403,Menuisier charpentier serrurier
+A404,Plombier couvreur chauffagiste
+A405,Electricien
+A406,Entreprise générale bâtiment
+A501,Coiffure
+A502,Vétérinaire
+A503,Agence travail temporaire
+A504,Restaurant - Restauration rapide
+A505,Agence immobilière
+A506,Pressing-Laverie automatique
+A507,Institut de beauté-Onglerie
+B101,Hypermarché
+B102,Supermarché
+B103,Grande surface bricolage
+B201,Supérette
+B202,Epicerie
+B203,Boulangerie
+B204,Boucherie charcuterie
+B205,Produits surgelés
+B206,Poissonnerie
+B301,Librairie papeterie journaux
+B302,Magasin vêtements
+B303,Magasin équipements du foyer
+B304,Magasin chaussures
+B305,Magasin électroménager - matériel audio/video
+B306,Magasin meubles
+B307,Magasin articles de sports - loisirs
+B308,Magasin revêtements murs et sols
+B309,Droguerie quincaillerie bricolage
+B310,Parfumerie-Cosmétique
+B311,Horlogerie Bijouterie
+B312,Fleuriste-Jardinerie-Animalerie
+B313,Magasin d'optique
+C303,Lycée enseignement technologique / professionnel agricole
+C505,Ecole d'enseignement supérieur agricole
+D101,Etablissement santé court séjour
+D102,Etablissement santé moyen séjour
+D103,Etablissement santé long séjour
+D104,Etablissement psychiatrique avec hébergement
+D105,Centre lutte cancer
+D106,Urgence
+D107,Maternité
+D108,Centre de santé
+D110,Centre médecine préventive
+D111,Dialyse
+D112,Hospitalisation à domicile
+D201,Médecin généraliste
+D202,Spécialiste Cardiologie
+D203,Spécialiste Dermatologie Vénéréologie
+D206,Spécialiste Gastro-entérologie
+D207,Spécialiste Psychiatrie
+D208,Spécialiste Ophtalmologie
+D209,Spécialiste Oto-rhino-laryngologie
+D210,Spécialiste Pédiatrie
+D211,Spécialiste Pneumologie
+D213,Spécialiste Stomatologie
+D214,Spécialiste en gynécologie
+D221,Chirurgien dentiste
+D231,Sage-femme
+D232,Infirmier
+D233,Masseur kinésithérapeute
+D235,Orthophoniste
+D236,Orthoptiste
+D238,Audio prothésiste
+D239,Ergothérapeute
+D240,Psychomotricien
+D302,Laboratoire d'analyses médicales
+D303,Ambulance
+D304,Transfusion sanguine
+D305,Etablissement thermal
+D401,Personnes âgées - hébergement
+D601,Enfants handicapés - hébergement
+D602,Enfants handicapés - services à domicile ou ambulatoire
+D603,Adultes handicapés - accueil/hébergement
+D605,Travail protégé
+D703,Centre d’hébergement et de réinsertion sociale
+D704,Centre provisoire d'hébergement
+D705,Centre accueil demandeur d'asile
+E01G,Gares
+E101,Taxi-VTC
+E102,Aéroport
+F101,Bassin de natation
+F102,Boulodrome
+F103,Tennis
+F104,Equipement de cyclisme
+F105,Domaine skiable
+F106,Centre équestre
+F107,Athlétisme
+F108,Terrain de golf
+F109,Parcours sportif/santé
+F110,Sports de glace
+F111,Plateaux et terrains de jeux extérieurs
+F112,Salles spécialisées
+F113,Terrains de grands jeux
+F114,Salles de combat
+F116,Salles non spécialisées
+F117,Roller-Skate-Vélo bicross ou freestyle
+F118,Sports nautiques
+F120,Salles de remise en forme
+F121,Salles multisports (gymnases)
+F202,Port de plaisance - Mouillage
+F305,Conservatoire
+G101,Agence de voyages
+G102,Hôtel
+G103,Camping
+G104,Information touristique
